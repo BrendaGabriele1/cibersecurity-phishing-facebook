@@ -7,7 +7,7 @@ PHISHING PARA CAPTURA DE SENHA DO FACEBOOK
 
 -> Configurando o Phishing no Kali Linux
 
-  * Acesso root> sudo su
+  * Acesso root: sudo su
   * Iniciando o setoolkit: setoolkit: setoolkit
   * Tipo de ataque: Social-Engineering Attacks
   * Vetor de ataque: Web Site Attack Vectors
@@ -15,3 +15,12 @@ PHISHING PARA CAPTURA DE SENHA DO FACEBOOK
   * Método de ataque: Site Cloner
   * Obtendo o endereço da máquina: ifconfig
   * URL para clone: www.facebook.com
+
+-> Resultados
+
+ ![Alt text](./Password.jpg "Optional title")
+
+-> Método de Defesa Facebook
+
+ ![Alt text](./DefesaFacebook.jpg "Optional title")
+ 
