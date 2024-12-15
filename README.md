@@ -1,3 +1,10 @@
+-> Introdução
+
+Neste projeto, foi desenvolvido um exemplo 
+de página de phishing que tem o objetivo de capturar
+credenciais inseridas em uma página
+de login simulada do Facebook.
+
 PHISHING PARA CAPTURA DE SENHA DO FACEBOOK 
 
 -> Ferramentas 
